@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.chetansharma.vercel.app](https://www.chetansharma.vercel.app)
 
-- 💬 Ask me about **ReactJs, C++, HTML, CSS, Javascript**
+- 💬 Ask me about **MERN Stack, ReactJs, C++, HTML, CSS, Javascript**
 
 - 📫 How to reach me **sharma.chetan9129@gmail.com**
 
